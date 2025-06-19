@@ -5,3 +5,5 @@ img/
 *.pyc
 training/
 *.pkl
+dataset/
+*.db
